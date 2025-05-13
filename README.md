@@ -5,7 +5,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/e6965cb7-bec0-4df4-9027-76ccb67a7552/giphy.gif"/>
+  ![Image](https://github.com/user-attachments/assets/e6965cb7-bec0-4df4-9027-76ccb67a7552)
 </div>
 
 ## 🌐 Socials:
