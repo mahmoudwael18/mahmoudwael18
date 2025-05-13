@@ -32,7 +32,7 @@ I am a **Data** **Analyst** with CS.(Computer Science) from CSC 6October(Egypt).
 - :briefcase: I'm passionate about becoming a Data Scientist and Data Analyst.
 - :globe_with_meridians: I'm always eager to collaborate on exciting data-related projects or discuss technology and data science/analyst topics.
 - :email: Feel free to reach out to me via email: mhmoudwael18@gmail.com
-- :right_anger_bubble: You can follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulrhman-nabil-1006a1229)
+- :right_anger_bubble: You can follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahmoud-wael-3b7208313/)
 
 ---
 **:file_folder: Projects**:
