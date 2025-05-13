@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/mahmoud-wael-3b7208313/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mahmoudwael18.github.io/Portfolo_Mahmoud/">
+  <a href="https://mahmoudwael18.github.io/Portfolio_Mahmoud/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=blog&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
@@ -36,7 +36,7 @@ I am a **Data** **Analyst** with IS.(Information System) from FCI_MU (Egypt).
 
 ---
 **:file_folder: Projects**:
-- :open_file_folder: You can check out some of my work and projects on  [Portfolio](https://mahmoudwael18.github.io/Portfolo_Mahmoud/) or GitHub.
+- :open_file_folder: You can check out some of my work and projects on  [Portfolio](https://mahmoudwael18.github.io/Portfolio_Mahmoud/) or GitHub.
 ---
 
 **Skills**:
