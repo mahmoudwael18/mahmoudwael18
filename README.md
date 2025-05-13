@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/mahmoud-wael-3b7208313/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/mahmoudwael18/">
+  <a href="https://mahmoudwael18.github.io/Portfolo_Mahmoud/">
     <img src="https://img.shields.io/badge/Portfiolo-black?style=for-the-badge&logo=blog&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
