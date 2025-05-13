@@ -27,7 +27,7 @@
    
 👨‍💻 **About** **Me**:
 
-I am a **Data** **Analyst** with CS.(Computer Science) from CSC 6October(Egypt).   
+I am a **Data** **Analyst** with IS.(Information System) from FCI_MU (Egypt).   
 - :books: I’m currently learning **Data Analyst/Science** and exploring the fascinating world of data analysis, data visualization, and technology.
 - :briefcase: I'm passionate about becoming a Data Scientist and Data Analyst.
 - :globe_with_meridians: I'm always eager to collaborate on exciting data-related projects or discuss technology and data science/analyst topics.
